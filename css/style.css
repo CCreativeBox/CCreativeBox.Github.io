@@ -3977,4 +3977,9 @@ aside .latest-post li figure {width: 75px;}
     margin-top: 50px !important;
 }
 
+.videoy {
+    max-width: 75%;
+    margin: 0 auto;
+}
+
 
